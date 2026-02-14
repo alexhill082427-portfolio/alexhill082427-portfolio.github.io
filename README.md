@@ -43,5 +43,5 @@ Driver-based financial analysis decomposing revenue and operating profit changes
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/alex-hill-8843081a7  
-Email: alex.hill082427@gmail.com
+[LinkedIn](https://www.linkedin.com/in/alex-hill-8843081a7)  
+[Email](alex.hill082427@gmail.com)
