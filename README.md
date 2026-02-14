@@ -7,9 +7,6 @@ The site serves as a centralized location for:
 - Python data analysis projects  
 - Academic research writing
 - Excel-based projects
-
-**Live Site:**  
-https://alexhill082427-portfolio.github.io/alexhill082427.github.io/
 ---
 
 ## Purpose
