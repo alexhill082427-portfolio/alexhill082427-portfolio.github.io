@@ -1,39 +1,41 @@
-# Alex Hill — Portfolio Website
+# Alex Hill — Analytical Portfolio
 
-This repository contains the source code for my personal website, hosted via GitHub Pages.
+Welcome to my portfolio site.  
 
-The site serves as a centralized location for:
-  
-- Python data analysis projects  
-- Academic research writing
-- Excel-based projects
----
+This page showcases applied examples of my work in financial analysis, data analysis, and business problem-solving.
 
-## Purpose
-This website is designed to provide clear demonstrations of my analytical and technical work.
+Rather than listing skills, I present complete, documented projects that demonstrate how I:
 
-Rather than simply listing skills, the site showcases complete, documented examples of how I approach problems, structure analysis, and communicate results.  
+- Structure analytical problems  
+- Clean and prepare real-world datasets  
+- Apply statistical and financial modeling techniques  
+- Communicate findings clearly  
+
 Each project links to its full GitHub repository for detailed review.
-
----
-
-## Updating the Site
-
-Changes are made directly in the Markdown files and deployed automatically through GitHub Pages when committed to the `main` branch.
-
----
-
-## Contact
-
-LinkedIn: www.linkedin.com/in/alex-hill-8843081a7  
-Email: alex.hill082427@gmail.com
 
 ---
 
 ## Projects
 
 ### Corporate Social Responsibility & Market Reaction  
-Empirical finance project using a Regression Discontinuity Design (RDD) to evaluate whether narrowly passed CSR proposals generate abnormal stock returns.
+**Regression Discontinuity Design | Event Study | Python**
 
-- https://github.com/alexhill082427-portfolio/Undergraduate-Senior-Thesis
+Empirical finance project evaluating whether narrowly passed CSR shareholder proposals generate statistically significant abnormal stock returns.
 
+- [View Repository](https://github.com/alexhill082427-portfolio/Undergraduate-Senior-Thesis)
+
+---
+
+### Segment Profitability Analysis  
+**Business Analytics | Margin Decomposition | Python & Excel**
+
+Segment-level profitability analysis examining revenue composition, cost drivers, and margin contribution to identify performance trends and strategic implications.
+
+- [View Repository](https://github.com/alexhill082427-portfolio/Segement-Profitability-Analysis)
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/alex-hill-8843081a7  
+Email: alex.hill082427@gmail.com
