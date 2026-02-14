@@ -15,7 +15,6 @@ This website is designed to provide clear demonstrations of my analytical and te
 Rather than simply listing skills, the site showcases complete, documented examples of how I approach problems, structure analysis, and communicate results.  
 Each project links to its full GitHub repository for detailed review.
 
-
 ---
 
 ## Updating the Site
@@ -28,3 +27,13 @@ Changes are made directly in the Markdown files and deployed automatically throu
 
 LinkedIn: www.linkedin.com/in/alex-hill-8843081a7  
 Email: alex.hill082427@gmail.com
+
+---
+
+## Projects
+
+### Corporate Social Responsibility & Market Reaction  
+Empirical finance project using a Regression Discontinuity Design (RDD) to evaluate whether narrowly passed CSR proposals generate abnormal stock returns.
+
+- https://github.com/alexhill082427-portfolio/Undergraduate-Senior-Thesis
+
